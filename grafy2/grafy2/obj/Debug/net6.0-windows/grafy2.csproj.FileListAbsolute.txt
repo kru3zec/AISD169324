@@ -1,0 +1,16 @@
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\bin\Debug\net6.0-windows\grafy2.exe
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\bin\Debug\net6.0-windows\grafy2.deps.json
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\bin\Debug\net6.0-windows\grafy2.runtimeconfig.json
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\bin\Debug\net6.0-windows\grafy2.dll
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\bin\Debug\net6.0-windows\grafy2.pdb
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.Form1.resources
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.csproj.GenerateResource.cache
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.AssemblyInfoInputs.cache
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.AssemblyInfo.cs
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.csproj.CoreCompileInputs.cache
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.dll
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\refint\grafy2.dll
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.pdb
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\grafy2.genruntimeconfig.cache
+C:\Users\lelen\Desktop\algorytmy-nauka\grafy2\grafy2\obj\Debug\net6.0-windows\ref\grafy2.dll
