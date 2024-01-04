@@ -1,0 +1,17 @@
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.csproj.AssemblyReference.cache
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.Form1.resources
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.csproj.GenerateResource.cache
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.AssemblyInfoInputs.cache
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.AssemblyInfo.cs
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.csproj.CoreCompileInputs.cache
+D:\mk169324\kruskal2\bin\Debug\net6.0-windows\kruskal2.exe
+D:\mk169324\kruskal2\bin\Debug\net6.0-windows\kruskal2.deps.json
+D:\mk169324\kruskal2\bin\Debug\net6.0-windows\kruskal2.runtimeconfig.json
+D:\mk169324\kruskal2\bin\Debug\net6.0-windows\kruskal2.dll
+D:\mk169324\kruskal2\bin\Debug\net6.0-windows\kruskal2.pdb
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.dll
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\refint\kruskal2.dll
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.pdb
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\kruskal2.genruntimeconfig.cache
+D:\mk169324\kruskal2\obj\Debug\net6.0-windows\ref\kruskal2.dll
