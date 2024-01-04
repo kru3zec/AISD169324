@@ -1,0 +1,49 @@
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.exe
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.deps.json
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.runtimeconfig.json
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.dll
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.pdb
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.Form1.resources
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.GenerateResource.cache
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfo.cs
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.dll
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\refint\Dijkstra.dll
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.pdb
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.genruntimeconfig.cache
+C:\Users\MSIB\Desktop\Studia\Semestr 3\Algorytmy i Struktury Danych\Ćwiczenia\AiSD\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\ref\Dijkstra.dll
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.exe
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.deps.json
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.runtimeconfig.json
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.dll
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.pdb
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.Form1.resources
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.GenerateResource.cache
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfo.cs
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.dll
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\refint\Dijkstra.dll
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.pdb
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.genruntimeconfig.cache
+C:\Users\lelen\Downloads\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\ref\Dijkstra.dll
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.exe
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.deps.json
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.runtimeconfig.json
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.dll
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\bin\Debug\net6.0-windows\Dijkstra.pdb
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.AssemblyReference.cache
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.Form1.resources
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.GenerateResource.cache
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfoInputs.cache
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.AssemblyInfo.cs
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.csproj.CoreCompileInputs.cache
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.dll
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\refint\Dijkstra.dll
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.pdb
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\Dijkstra.genruntimeconfig.cache
+G:\cs\2024\Algorytmy\Dijkstra\Dijkstra\Dijkstra\obj\Debug\net6.0-windows\ref\Dijkstra.dll

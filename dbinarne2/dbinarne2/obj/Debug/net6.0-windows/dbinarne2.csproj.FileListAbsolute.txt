@@ -1,0 +1,16 @@
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\bin\Debug\net6.0-windows\dbinarne2.exe
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\bin\Debug\net6.0-windows\dbinarne2.deps.json
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\bin\Debug\net6.0-windows\dbinarne2.runtimeconfig.json
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\bin\Debug\net6.0-windows\dbinarne2.dll
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\bin\Debug\net6.0-windows\dbinarne2.pdb
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.Form1.resources
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.csproj.GenerateResource.cache
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.AssemblyInfoInputs.cache
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.AssemblyInfo.cs
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.csproj.CoreCompileInputs.cache
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.dll
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\refint\dbinarne2.dll
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.pdb
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\dbinarne2.genruntimeconfig.cache
+C:\Users\lelen\Desktop\aisd-nauka\dbinarne2\dbinarne2\obj\Debug\net6.0-windows\ref\dbinarne2.dll
